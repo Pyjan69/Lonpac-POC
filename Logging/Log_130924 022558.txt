@@ -1,0 +1,13 @@
+﻿************************************************************************************************
+Lonpac POC Process Logging
+************************************************************************************************
+
+09/13/2024 14:25:58 Process Start
+
+09/13/2024 14:26:02 Launch browser
+09/13/2024 14:26:06 Search : lonpac
+09/13/2024 14:26:09 Click Image
+09/13/2024 14:26:11 Save first image
+09/13/2024 14:26:22 Image save as : C:\Users\Hafizal\Documents\UiPath\Download_Image_Browser\Download\lonpac.png
+
+09/13/2024 14:26:22 Process End

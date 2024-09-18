@@ -1,0 +1,14 @@
+﻿************************************************************************************************
+Lonpac POC Process Logging
+************************************************************************************************
+
+09/13/2024 14:14:04 Process Start
+
+09/13/2024 14:14:09 Launch browser
+09/13/2024 14:14:21 Search : lonpac
+09/13/2024 14:15:38 Error during download image. Retrying to download - 1
+09/13/2024 14:15:38 Launch browser
+09/13/2024 14:15:43 Search : lonpac
+09/13/2024 14:17:01 Error during download image. Retrying to download - 1
+09/13/2024 14:17:01 Launch browser
+09/13/2024 14:17:05 Search : lonpac
